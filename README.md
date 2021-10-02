@@ -1,5 +1,7 @@
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** This is a Best-README-Template, your repository is 
+*** https://github.com/othneildrew/Best-README-Template
+*** If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
@@ -7,9 +9,8 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** JasRockr, TCompany, @JasRockr, jasrockr@hotmail.com, TCompany_Project, Project Store TCompany.tda
+*** github_username, repo_name, twitter_handle, email, project_title, project_description
 -->
-
 
 
 <!-- PROJECT SHIELDS -->
@@ -20,28 +21,27 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![uses-html][html-shield]][learnhtml-url]
+[![uses-css][css-shield]][learncss-url]
+[![uses-js][js-shield]][learnjs-url]
+[![uses-php][php-shield]][learnphp-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/JasRockr/TCompany">
-    <img src="https://github.com/JasRockr/TCompany/blob/master/T-Company_PHP/icon.png" alt="Logo" width="80" height="80">
+    <img src="./T-Company_PHP/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">T-Company</h3>
 
   <p align="center">
-    Project Store TCompany.tda
-    <br />
-    <a href="https://github.com/JasRockr/TCompany/tree/master/T-Company_PHP"><strong>Explore the docs »</strong></a>
+    Proyecto Tienda Online TCompany.tda
+    <br/>
+    <a href="https://github.com/JasRockr/TCompany/tree/master/T-Company_PHP"><strong>Estos los documentos »</strong></a>
     <br />
     <br />
     <a href="https://github.com/JasRockr/TCompany">View Demo</a>
@@ -53,15 +53,20 @@
 </p>
 
 
+<!-- PROJECT INDEX -->
+![sitemap](./T-Company_Index.png)
+
+[Version de pruebas publicada, sigue en desarrollo.](http://jsonrivera.tk)
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Sobre el proyecto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Tecnologias usadas</a></li>
       </ul>
     </li>
     <li>
@@ -87,7 +92,8 @@
 
 Actualmente es para uso academico y sigue en desarrollo, hay archivos pendientes por depurar y sobrecargan el proyecto.
 
-[![Tienda de camisetas](https://github.com/JasRockr/TCompany/blob/master/T-Company_PHP/img/bg-inscribir.jpg "T-Company")[Version publicada, aun en desarrollo]](http://jsonrivera.tk)
+![sitemap](./TCompany_imap.svg)
+
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -178,15 +184,15 @@ Project Link: [https://github.com/JasRockr/TCompany](https://github.com/JasRockr
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/JasRockr/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/JasRockr/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/JasRockr/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/JasRockr/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/JasRockr/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/JasRockr/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/JasRockr/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/JasRockr/repo/issues
-[license-shield]: https://img.shields.io/github/license/JasRockr/repo.svg?style=for-the-badge
-[license-url]: https://github.com/JasRockr/repo/blob/master/LICENSE.txt
+[html-shield]: https://img.shields.io/badge/uses-HTML-orange
+[learnhtml-url]: https://www.w3schools.com/html
+[css-shield]: https://img.shields.io/badge/uses-CSS-blue
+[learncss-url]: https://www.w3schools.com/css
+[js-shield]: https://img.shields.io/badge/uses-JS-yellow
+[learnjs-url]: https://www.w3schools.com/js
+[php-shield]: https://img.shields.io/badge/uses-PHP-%238892BF
+[learnphp-url]: https://www.w3schools.com/php
+[license-shield]: https://img.shields.io/badge/license-MIT-red
+[license-url]: ./LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/JasRockr
+[linkedin-url]: https://www.linkedin.com/in/jsonrivera/
