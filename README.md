@@ -39,16 +39,16 @@
   <h3 align="center">T-Company</h3>
 
   <p align="center">
-    Proyecto Tienda Online TCompany.tda
+    Proyecto Tienda Online TCompany [tda]
     <br/>
-    <a href="https://github.com/JasRockr/TCompany/tree/master/T-Company_PHP"><strong>Estos los documentos »</strong></a>
+    <a href="https://github.com/JasRockr/TCompany/tree/master/T-Company_PHP"><strong>Explora los archivos »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/JasRockr/TCompany">View Demo</a>
+    <a href="http://jsonrivera.tk">Ver una Demo</a>
     ·
-    <a href="https://github.com/JasRockr/TCompany/issues">Report Bug</a>
+    <a href="https://github.com/JasRockr/TCompany/issues">Reporta un error</a>
     ·
-    <a href="https://github.com/JasRockr/TCompany/issues">Request Feature</a>
+    <a href="https://github.com/JasRockr/TCompany/issues">Solicita funciones</a>
   </p>
 </p>
 
@@ -56,7 +56,7 @@
 <!-- PROJECT INDEX -->
 ![sitemap](./T-Company_Index.png)
 
-[Version de pruebas publicada, sigue en desarrollo.](http://jsonrivera.tk)
+<p align="center"><a href="http://jsonrivera.tk">Version de pruebas publicada, sigue en desarrollo</a></p>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -70,113 +70,138 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Requerimientos</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Navegadores Web</a></li>
+        <li><a href="#installation">Instalacion</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#usage">Guia de usuario</a></li>
+    <li><a href="#roadmap">Guia de Navegacion</a></li>
+    <li><a href="#contributing">Contribuciones</a></li>
+    <li><a href="#license">Licencia</a></li>
+    <li><a href="#contact">Contacto</a></li>
+    <li><a href="#acknowledgements">Agradecimientos</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre el proyecto
 
-Actualmente es para uso academico y sigue en desarrollo, hay archivos pendientes por depurar y sobrecargan el proyecto.
+Aplicacion web orientada a una tienda de venta y distribucuin de camisetas personalizadas.
 
-![sitemap](./TCompany_imap.svg)
-
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`JasRockr`, `TCompany`, `@JasRockr`, `jasrockr@hotmail.com`, `TCompany_Project`, `Project Store TCompany.tda`
+Es un Proyecto Personal que actualmente es para uso academico y sigue en desarrollo, hay archivos pendientes por depurar y que aun sobrecargan el proyecto.
 
 
-### Built With
+### Tecnologias usadas
 
-* [HTML]()
-* [CSS]()
-* [JS]()
-* [PHP]()
-* [MYSQL]()
+* [HTML](https://html.spec.whatwg.org/multipage/)
+* [CSS](https://www.w3.org/Style/CSS/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+* [jQuery](https://jquery.com/)
+* [Ajax](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+* [PHP](https://www.php.net/)
+* [MySQL](https://www.mysql.com/)
 
+<p align="right">(<a href="#top">Volver arriba</a>)</p>
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Requerimientos
 
 Actualmente no hay una version en funcionamiento.
 
 
-### Prerequisites
+### Navegadores Web
+
+La visualizacion y navegacion por el contenido de manera fluida se prueba regularmente con las ultimas versiones del navegador y es compatible con los siguientes:
+
+* Google Chrome
+* Mozilla Firefox
+* Brave Web Browser
+* Opera
+* Microsoft Edge
+* Safari
+* Internet Explorer
+
+<p align="right">(<a href="#top">Volver arriba</a>)</p>
+
+### Instalacion
 
 N/A
 
-
-### Installation
-
-N/A
-
+<p align="right">(<a href="#top">Volver arriba</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Guia de usuario
 
-Actualmente es para uso de proyecto academico.
+Actualmente continua en desarrollo y no hay una guia completa.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_Para mas detalles, puede consultar la siguiente [Documentacion](https://example.com)_
 
+<p align="right">(<a href="#top">Volver arriba</a>)</p>
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Guia de Navegacion
 
-See the [open issues](https://github.com/JasRockr/TCompany/issues) for a list of proposed features (and known issues).
 
+
+Aqui podra ver los [requerimientos abiertos](https://github.com/JasRockr/TCompany/issues) para una lista de las funcionalidades propuestas (y otros problemas conocidos).
+
+
+<p align="right">(<a href="#top">Volver arriba</a>)</p>
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuciones
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Son las contribuciones lo que permite que la comunidad de codigo abierto sea el mejor lugar para aprender, inspirar, transformar y crear. Cualquiera que sea tu contribucion sera **muy apreciada**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Haz un 'Fork' del Proyecto
+2. Crea tu 'Branch' de funcionalidades (`git checkout -b feature/AmazingFeature`)
+3. No olvides el 'Commit' de tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Envialo de vuelta (`git push origin feature/AmazingFeature`)
+5. Abre el 'Pull Request'
 
-
+<p align="right">(<a href="#top">Volver arriba</a>)</p>
 
 <!-- LICENSE -->
-## License
+## Licencia
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distribuido bajo licencia MIT. Puedes ver el `LICENSE` si quieres saber mas.
 
-
+<p align="right">(<a href="#top">Volver arriba</a>)</p>
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
-Your Name - [@JasRockr](https://twitter.com/@JasRockr) - jasrockr@hotmail.com
+Jay Rivera - [@JasRockr](https://twitter.com/@JasRockr) - jasrockr@hotmail.com
 
-Project Link: [https://github.com/JasRockr/TCompany](https://github.com/JasRockr/TCompany)
+Link al proyecto: [https://github.com/JasRockr/TCompany](https://github.com/JasRockr/TCompany)
+
+<p align="right">(<a href="#top">Volver arriba</a>)</p>
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Agradecimientos
+
+Gracias por interesarte en este proyecto, si lo vas a usar hazlo bien. 
+<div align="center" style="font-size:64px">
+&#128406; &#129492;
+</div>
+
+<p align="right">(<a href="#top">Volver arriba</a>)</p>
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
 
-* []()
-* []()
-* []()
+
+
+
+
 
 
 
