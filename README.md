@@ -130,7 +130,21 @@ La visualizacion y navegacion por el contenido de manera fluida se prueba regula
 
 ### Instalacion
 
-N/A
+Para que todos los módulos funcionen correctamente se deben seguir los siguientes pasos:
+
+#### Desplegar Base de Datos
+En la carpeta T-Company/database se encuentra el archivo db_TCompany.sql con los scripts necesarios para crear la base de datos, las tablas y los datos de prueba necesarios para para la base de datos 'tcompany'.
+
+#### Configuracion Base de Datos
+El archivo de configuración para el acceso a la base de datos es bd_conexion.php y se encuentra en la carpeta T-Company/includes/funciones basta con modificar los valores de las variables: 
+
+* $host;
+* $user;
+* $pass;
+* $db_name;
+
+
+
 
 <p align="right">(<a href="#top">Volver arriba</a>)</p>
 

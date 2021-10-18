@@ -5,7 +5,7 @@
     <h2>Registro</h2>
     
     <!-- FORMULARIO DE REGISTRO -->
-    <form id="registro" action="validar_registro.php" class="registro" action="validar_registro.php" method="POST">
+    <form id="registro" action="pagar.php" class="registro" method="POST">
         <div id="datos_usuario" class="registro caja clearfix">
             <div class="campo">
                 <label for="nombre">Nombre:</label>

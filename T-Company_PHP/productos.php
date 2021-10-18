@@ -49,13 +49,13 @@
                 <?php } //while de fetch_assoc()  ?>
 
                 <?php 
-                    // Imprime todos los productos
-                            
                         // Conversión fechas 
                             // Unix: setlocale (LC_TIME, 'es_ES.UTF-8');
                             // Win: setlocale (LC_TIME, 'espanish');
                             // echo date( "F j, Y", strtotime ($fecha)  ); 
                             // echo strtotime( "%A, %d de %B del %Y, strtotime ($fecha)  );
+                    
+                            // Imprime todos los productos
                     foreach ($inventario as $categoria => $lista_productos) { ?>
                         <h3>
                             <i class="fas fa-shopping-bag"></i>

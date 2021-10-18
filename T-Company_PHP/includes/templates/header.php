@@ -121,7 +121,7 @@
         <a href="galerias.php">Galeria</a>
         <a href="catalogo.php">Catalogo</a>
         <a href="productos.php">Productos</a>
-        <a href="registro.php">Iniciar Cotización</a>
+        <a href="pedidos.php">Iniciar Pedido</a>
       </nav>
 
     </div> <!-- .contenedor -->
