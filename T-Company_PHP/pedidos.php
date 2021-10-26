@@ -5,7 +5,35 @@
     <h2>Registro</h2>
     
     <!-- FORMULARIO DE REGISTRO -->
-    <form id="registro" action="pagar.php" class="registro" method="POST">
+    <form id="registro" method="POST" action="https://sandbox.checkout.payulatam.com/ppp-web-gateway-payu" class="registro">
+
+        <input name="merchantId"        type="hidden"  value="508029"   >
+        <input name="accountId"           type="hidden"  value="512321" >
+        <input name="description"        type="hidden"  value="Test TCompany"  >
+        <input name="referenceCode" type="hidden"  value="PagoTCompany" >
+        <input name="amount"               type="hidden"  value="35000" >
+        <input name="tax"                        type="hidden"  value="0"  >
+        <input name="taxReturnBase"  type="hidden"  value="0" >
+        <input name="currency"              type="hidden"  value="COP" >
+        <!-- Signature:  “ApiKey~merchantId~referenceCode~amount~currency”-->
+        <input name="signature"             type="hidden"  value="d8e6e5c5f72eb0df3841f229675be0eb">
+
+        <input name="apiKey"                   type="hidden"  value="4Vj8eK4rloUd272L48hsrarnUA"   >
+        
+        <input name="test"                        type="hidden"  value="1" >
+        <input name="buyerEmail"          type="hidden"  value="testCliente@tcompany.com" >
+        
+        <input name="responseUrl"    type="hidden"  value="http://localhost/My%20Projects/T-Company_PHP/response.php" >
+        <input name="confirmationUrl"    type="hidden"  value="http://localhost/My%20Projects/T-Company_PHP/confirmation.php" >
+
+        <!--
+        <input name="shippingAddress" type="hidden" value="calle93 n 47-65">
+        <input name="shippingCity" type="hidden" value="Medellín">
+        <input name="shippingCountry" type="hidden" value="CO">
+    -->
+
+
+
         <div id="datos_usuario" class="registro caja clearfix">
             <div class="campo">
                 <label for="nombre">Nombre:</label>
